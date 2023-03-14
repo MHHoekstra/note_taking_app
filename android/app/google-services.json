@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174070355814",
+    "project_id": "noteapp-d5ea3",
+    "storage_bucket": "noteapp-d5ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174070355814:android:1af575f356c85320a79aa7",
+        "android_client_info": {
+          "package_name": "com.mhhoekstra.note_taking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174070355814-ou2ie200ooc0fkg8ac7djerfcjvuss6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhhoekstra.note_taking_app",
+            "certificate_hash": "9de6f22021459646daa7c52a6061a5bf5f1fdf37"
+          }
+        },
+        {
+          "client_id": "174070355814-2e67mm0dtg1pkct5ojpe2ru5p8j19mbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBfA0i10auIZJWgcn6FXfDwp1eSrcGYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174070355814-2e67mm0dtg1pkct5ojpe2ru5p8j19mbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
